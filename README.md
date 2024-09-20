@@ -3,7 +3,7 @@ This is a Todo Project with Full Stack
 ## FrontEnd
 - Next js
 - Tailwind
-- React-qull
+- React-quill
   
 ## Backend
 - Next-Auth Authentication
